@@ -2,7 +2,7 @@
 
 This organization is a place for any Most.js project that welcomes collaboration. We welcome all types of projects that make use of Most.js
 
-The official [most.js repos](https://gitub.com/cujojs/most) and the [most.js organization](https://github.com/mostjs) contains the code maintained directly by the most.js core team. This organization is for all the awesome stuff you are creating!
+The official [most.js repo](https://github.com/cujojs/most) and the [most.js organization](https://github.com/mostjs) contains the code maintained directly by the most.js core team. This organization is for all the awesome stuff you are creating!
 
 About our community
 ---
